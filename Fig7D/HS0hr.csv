@@ -1,0 +1,43 @@
+n,image,icn factor,% nuclei,% cytoplasm,av. nuclei intensity,av. cytoplasm intensity,nuclei area,cytoplasm area,t. nuclei intensity,t. cytoplasm intensity,folder
+1,GFP.tif,0.2717,21.3656,78.6344,42.8456,26.4922,1237,7363,53000,195062,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+2,GFP.tif,0.3174,24.0942,75.9058,23.856,20.0516,1576,5907,37597,118445,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+3,GFP.tif,0.4568,31.3568,68.6432,30.1771,20.5947,3342,10720,100852,220775,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+4,GFP.tif,0.6526,39.4889,60.5111,104.7968,70.8402,1585,3593,166103,254529,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+5,GFP.tif,0.1998,16.6519,83.3481,45.7705,30.2899,1024,7745,46869,234595,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+6,GFP.tif,0.7443,42.6699,57.3301,159.3402,56.3139,1220,4638,194395,261184,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+7,GFP.tif,0.4718,32.054,67.946,59.9396,39.6812,1357,4345,81338,172415,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+8,GFP.tif,0.2419,19.4763,80.5237,40.3922,23.493,1392,9895,56226,232463,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+9,GFP.tif,0.7813,43.8624,56.1376,111.4908,71.771,1520,3022,169466,216892,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+10,GFP.tif,0.585,36.9071,63.0929,142.8017,82.7263,1488,4391,212489,363251,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+11,GFP.tif,0.1001,9.1024,90.8976,45.361,33.911,313,4181,14198,141782,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+12,GFP.tif,0.3467,25.7455,74.2545,170.2773,55.2323,1071,9523,182367,525977,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+13,GFP.tif,0.3755,27.2986,72.7014,21.5897,17.749,1616,5235,34889,92916,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+14,GFP.tif,0.5163,34.0503,65.9497,34.4727,26.6307,1392,3490,47986,92941,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+15,GFP.tif,0.6871,40.7275,59.2725,103.7528,82.252,1230,2258,127616,185725,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+16,GFP.tif,0.3177,24.1084,75.8916,55.2076,28.9624,1859,11155,102631,323076,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+17,GFP.tif,0.5541,35.6532,64.3468,50.4687,25.0204,687,2501,34672,62576,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+18,GFP.tif,1.4039,58.4016,41.5984,116.3854,46.5832,1588,2826,184820,131644,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+19,GFP.tif,1.5908,61.4014,38.5986,102.4461,36.2828,2524,4480,258574,162547,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+20,GFP.tif,0.2723,21.4037,78.5963,19.4404,14.2029,1603,8057,31163,114433,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+21,GFP.tif,0.2846,22.1528,77.8472,50.338,20.3125,1074,9353,54063,189983,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+22,GFP.tif,1.3335,57.1464,42.8536,116.3854,39.129,1588,3542,184820,138595,/Users/cellsignaling6/Desktop/201013 FHF RelA/0h/
+23,GFP.tif,0.4495,31.011,68.989,34.3249,26.0443,3087,9051,105961,235727,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+24,GFP.tif,0.438,30.4607,69.5393,30.0743,24.8523,2220,6133,66765,152419,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+25,GFP.tif,0.1467,12.793,87.207,30.7848,15.2931,223,3060,6865,46797,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+26,GFP.tif,0.5234,34.3563,65.6437,16.482,9.3418,1334,4497,21987,42010,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+27,GFP.tif,0.2965,22.8664,77.1336,50.3067,33.9511,1141,5703,57400,193623,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+28,GFP.tif,0.9011,47.3989,52.6011,73.4298,32.4321,1389,3490,101994,113188,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+29,GFP.tif,0.3991,28.5257,71.4743,46.2739,27.9766,2238,9275,103561,259483,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+30,GFP.tif,0.3616,26.5577,73.4423,71.564,36.5256,1454,7878,104054,287749,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+31,GFP.tif,0.3735,27.1931,72.8069,118.678,77.7808,1972,8056,234033,626602,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+32,GFP.tif,0.1284,11.3802,88.6198,69.6307,34.6396,352,5510,24510,190864,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+33,GFP.tif,0.4786,32.3667,67.6333,36.3517,19.6182,1507,5835,54782,114472,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+34,GFP.tif,0.2789,21.8074,78.1926,85.5407,77.6202,1731,6840,148071,530922,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+35,GFP.tif,0.5138,33.9412,66.0588,72.0377,46.0966,3370,10250,242767,472490,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+36,GFP.tif,0.2834,22.0795,77.9205,64.5155,39.5137,2320,13368,149676,528219,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+37,GFP.tif,0.3513,25.9984,74.0016,53.9713,35.2872,942,4101,50841,144713,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+38,GFP.tif,0.3434,25.5604,74.4396,35.1118,19.1834,1843,9824,64711,188458,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+39,GFP.tif,0.3763,27.3415,72.6585,153.2782,94.2461,1348,5826,206619,549078,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+40,GFP.tif,0.246,19.7454,80.2546,125.9219,82.3289,1011,6285,127307,517437,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+41,GFP.tif,0.2455,19.7132,80.2868,78.901,60.1245,1091,5831,86081,350586,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/
+42,GFP.tif,0.2916,22.5767,77.4233,131.3308,77.9641,1859,10739,244144,837256,/Users/cellsignaling6/Desktop/江君HeatShock論文/ExpCellResリバイス/Jiang-san's data/201013 FHF RelA/0h/

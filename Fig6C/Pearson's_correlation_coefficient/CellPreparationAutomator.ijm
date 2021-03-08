@@ -1,0 +1,13 @@
+run("Duplicate...", " ");
+setBackgroundColor(255, 255, 255);
+run("Clear Outside");
+run("Make Inverse");
+setForegroundColor(0, 0, 0);
+run("Fill", "slice");
+run("Split Channels");
+selectWindow("Overlay_2h 25-1.tif (blue)");
+close();
+selectWindow("Overlay_2h 25-1.tif (red)");
+run("Subtract Background...", "rolling=10");
+selectWindow("Overlay_2h 25-1.tif (green)");
+run("Subtract Background...", "rolling=10");
